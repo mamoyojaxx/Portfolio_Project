@@ -17,22 +17,22 @@ h2{
     font-size: 64px;
 }
 
-.about-section{
+.content-container{
     padding:160px 20px;  
     text-align: center; 
 }
 
-.about-section h1{
+.content-container h1{
 font-size: 64px;
 line-height: 80px;
 }
 
-.about-section h2{
+.content-container h2{
     font-size: 18px;
     font-family:var(--body-font); 
     }
 
-.about-section-content{
+.content{
     margin:30px
 }
 
