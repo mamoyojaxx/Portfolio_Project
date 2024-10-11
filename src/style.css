@@ -32,6 +32,11 @@ line-height: 80px;
     font-family:var(--body-font); 
     }
 
+    .content-container h3{
+        font-size: 18px;
+        font-family:var(--body-font); 
+        }
+
 .content{
     margin:30px
 }
