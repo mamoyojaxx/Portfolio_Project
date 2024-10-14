@@ -24,7 +24,7 @@ h3{
 }
 
 .content-container{
-    padding:160px 20px;  
+    padding:60px 20px;  
     text-align: center; 
 }
 
@@ -100,7 +100,7 @@ p{
 .hero{
     background-color: var(--bg-color);
     text-align: center;
-    padding:160px 20px;
+    padding:60px 20px;
 }
 
 .btn-link{
